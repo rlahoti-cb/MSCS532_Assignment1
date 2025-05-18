@@ -1,3 +1,5 @@
+# MSCS 532 Assignment 1
+
 This program will handle insertion sort in monotonically decreasing order. This program supplies input however you can modify the program by updating the `inp` variable to your own array.
 
 To run this program, execute `python3 insertion_sort.py`.
